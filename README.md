@@ -90,8 +90,8 @@ Even extensions with high ratings and millions of downloads can become malicious
 ---
 
 ##  Key Concepts  
-- **Sleeper Extensions**: Initially clean extensions that become malicious after updates :contentReference[oaicite:5]{index=5}.  
-- **Supply-Chain Attacks in Extensions**: Attackers hijack trusted extensions to deliver malware at scale :contentReference[oaicite:6]{index=6}.  
-- **Permission Abuse**: Broad access permissions can be misused for tracking or remote redirects :contentReference[oaicite:7]{index=7}.
+- **Sleeper Extensions**: Initially clean extensions that become malicious after updates.  
+- **Supply-Chain Attacks in Extensions**: Attackers hijack trusted extensions to deliver malware at scale.  
+- **Permission Abuse**: Broad access permissions can be misused for tracking or remote redirects.
 
 ---
